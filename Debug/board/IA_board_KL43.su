@@ -1,0 +1,7 @@
+../board/IA_board_KL43.c:3:6:board_init	8	static
+../board/IA_board_KL43.c:14:6:ledRojo_init	8	static
+../board/IA_board_KL43.c:27:6:ledVerde_init	8	static
+../board/IA_board_KL43.c:40:6:pulsadorSw1_init	8	static
+../board/IA_board_KL43.c:50:6:pulsadorSw3_init	8	static
+../board/IA_board_KL43.c:61:8:pulsadorSw1_get	8	static
+../board/IA_board_KL43.c:65:8:pulsadorSw3_get	8	static
